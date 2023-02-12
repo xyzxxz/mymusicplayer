@@ -1,2 +1,1 @@
-# mymusicplayer
-my terminal music player
+# 我的终端音乐播放器
